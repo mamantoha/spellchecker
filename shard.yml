@@ -1,0 +1,13 @@
+name: spellchecker
+version: 0.1.0
+
+dependencies:
+  hunspell:
+    github: mamantoha/crystal-hunspell
+
+authors:
+  - Anton Maminov <anton.linux@gmail.com>
+
+crystal: 0.28.0
+
+license: MIT
