@@ -1,5 +1,7 @@
 # spellchecker
 
+[![Build Status](https://travis-ci.org/mamantoha/spellchecker.svg?branch=master)](https://travis-ci.org/mamantoha/spellchecker)
+
 Spellchecker for Crystal code
 
 ## Installation
